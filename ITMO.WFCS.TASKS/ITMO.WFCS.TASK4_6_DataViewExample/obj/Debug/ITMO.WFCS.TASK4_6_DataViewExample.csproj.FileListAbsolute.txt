@@ -1,0 +1,8 @@
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_6_DataViewExample\bin\Debug\ITMO.WFCS.TASK4_6_DataViewExample.exe.config
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_6_DataViewExample\bin\Debug\ITMO.WFCS.TASK4_6_DataViewExample.exe
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_6_DataViewExample\bin\Debug\ITMO.WFCS.TASK4_6_DataViewExample.pdb
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_6_DataViewExample\obj\Debug\ITMO.WFCS.TASK4_6_DataViewExample.Form1.resources
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_6_DataViewExample\obj\Debug\ITMO.WFCS.TASK4_6_DataViewExample.Properties.Resources.resources
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_6_DataViewExample\obj\Debug\ITMO.WFCS.TASK4_6_DataViewExample.csproj.GenerateResource.cache
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_6_DataViewExample\obj\Debug\ITMO.WFCS.TASK4_6_DataViewExample.exe
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_6_DataViewExample\obj\Debug\ITMO.WFCS.TASK4_6_DataViewExample.pdb

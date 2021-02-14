@@ -7,3 +7,12 @@ D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASK1_2\ITMO.WFCS.TASK14_DatasetDesigne
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASK1_2\ITMO.WFCS.TASK14_DatasetDesigner\obj\Debug\ITMO.WFCS.TASK14_DatasetDesigner.exe
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASK1_2\ITMO.WFCS.TASK14_DatasetDesigner\obj\Debug\ITMO.WFCS.TASK14_DatasetDesigner.pdb
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASK1_2\ITMO.WFCS.TASK14_DatasetDesigner\obj\Debug\ITMO.WFCS.TASK14_DatasetDesigner.Form1.resources
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK14_DatasetDesigner\bin\Debug\ITMO.WFCS.TASK14_DatasetDesigner.exe.config
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK14_DatasetDesigner\bin\Debug\ITMO.WFCS.TASK14_DatasetDesigner.exe
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK14_DatasetDesigner\bin\Debug\ITMO.WFCS.TASK14_DatasetDesigner.pdb
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK14_DatasetDesigner\obj\Debug\ITMO.WFCS.TASK4_DatasetDesigner.csprojAssemblyReference.cache
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK14_DatasetDesigner\obj\Debug\ITMO.WFCS.TASK14_DatasetDesigner.Form1.resources
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK14_DatasetDesigner\obj\Debug\ITMO.WFCS.TASK14_DatasetDesigner.Properties.Resources.resources
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK14_DatasetDesigner\obj\Debug\ITMO.WFCS.TASK4_DatasetDesigner.csproj.GenerateResource.cache
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK14_DatasetDesigner\obj\Debug\ITMO.WFCS.TASK14_DatasetDesigner.exe
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK14_DatasetDesigner\obj\Debug\ITMO.WFCS.TASK14_DatasetDesigner.pdb

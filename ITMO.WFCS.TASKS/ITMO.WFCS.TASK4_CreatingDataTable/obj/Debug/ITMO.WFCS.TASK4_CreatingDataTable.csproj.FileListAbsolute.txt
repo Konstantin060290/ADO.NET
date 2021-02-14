@@ -7,3 +7,12 @@ D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASK1_2\ITMO.WFCS.TASK4_CreatingDataTab
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASK1_2\ITMO.WFCS.TASK4_CreatingDataTable\obj\Debug\ITMO.WFCS.TASK4_CreatingDataTable.csproj.GenerateResource.cache
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASK1_2\ITMO.WFCS.TASK4_CreatingDataTable\obj\Debug\ITMO.WFCS.TASK4_CreatingDataTable.exe
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASK1_2\ITMO.WFCS.TASK4_CreatingDataTable\obj\Debug\ITMO.WFCS.TASK4_CreatingDataTable.pdb
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_CreatingDataTable\bin\Debug\ITMO.WFCS.TASK4_CreatingDataTable.exe.config
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_CreatingDataTable\bin\Debug\ITMO.WFCS.TASK4_CreatingDataTable.exe
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_CreatingDataTable\bin\Debug\ITMO.WFCS.TASK4_CreatingDataTable.pdb
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_CreatingDataTable\obj\Debug\ITMO.WFCS.TASK4_CreatingDataTable.csprojAssemblyReference.cache
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_CreatingDataTable\obj\Debug\ITMO.WFCS.TASK4_CreatingDataTable.Form1.resources
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_CreatingDataTable\obj\Debug\ITMO.WFCS.TASK4_CreatingDataTable.Properties.Resources.resources
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_CreatingDataTable\obj\Debug\ITMO.WFCS.TASK4_CreatingDataTable.csproj.GenerateResource.cache
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_CreatingDataTable\obj\Debug\ITMO.WFCS.TASK4_CreatingDataTable.exe
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_CreatingDataTable\obj\Debug\ITMO.WFCS.TASK4_CreatingDataTable.pdb

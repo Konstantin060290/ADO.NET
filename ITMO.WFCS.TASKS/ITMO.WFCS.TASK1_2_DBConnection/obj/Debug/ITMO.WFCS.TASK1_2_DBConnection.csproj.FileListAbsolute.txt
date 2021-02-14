@@ -1,0 +1,9 @@
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK1_2_DBConnection\bin\Debug\ITMO.WFCS.TASK1_DBConnection.exe.config
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK1_2_DBConnection\bin\Debug\ITMO.WFCS.TASK1_DBConnection.exe
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK1_2_DBConnection\bin\Debug\ITMO.WFCS.TASK1_DBConnection.pdb
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK1_2_DBConnection\obj\Debug\ITMO.WFCS.TASK1_2_DBConnection.csprojAssemblyReference.cache
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK1_2_DBConnection\obj\Debug\ITMO.WFCS.TASK1_DBConnection.Form1.resources
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK1_2_DBConnection\obj\Debug\ITMO.WFCS.TASK1_DBConnection.Properties.Resources.resources
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK1_2_DBConnection\obj\Debug\ITMO.WFCS.TASK1_2_DBConnection.csproj.GenerateResource.cache
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK1_2_DBConnection\obj\Debug\ITMO.WFCS.TASK1_DBConnection.exe
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK1_2_DBConnection\obj\Debug\ITMO.WFCS.TASK1_DBConnection.pdb
