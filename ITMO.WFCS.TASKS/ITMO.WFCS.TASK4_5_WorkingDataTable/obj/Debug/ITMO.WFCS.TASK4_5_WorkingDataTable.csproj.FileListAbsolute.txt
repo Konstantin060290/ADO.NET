@@ -1,7 +1,6 @@
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_5_WorkingDataTable\bin\Debug\ITMO.WFCS.TASK4_5_WorkingDataTable.exe.config
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_5_WorkingDataTable\bin\Debug\ITMO.WFCS.TASK4_5_WorkingDataTable.exe
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_5_WorkingDataTable\bin\Debug\ITMO.WFCS.TASK4_5_WorkingDataTable.pdb
-D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_5_WorkingDataTable\obj\Debug\ITMO.WFCS.TASK4_5_WorkingDataTable.csprojAssemblyReference.cache
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_5_WorkingDataTable\obj\Debug\ITMO.WFCS.TASK4_5_WorkingDataTable.Form1.resources
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_5_WorkingDataTable\obj\Debug\ITMO.WFCS.TASK4_5_WorkingDataTable.Properties.Resources.resources
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_5_WorkingDataTable\obj\Debug\ITMO.WFCS.TASK4_5_WorkingDataTable.csproj.GenerateResource.cache

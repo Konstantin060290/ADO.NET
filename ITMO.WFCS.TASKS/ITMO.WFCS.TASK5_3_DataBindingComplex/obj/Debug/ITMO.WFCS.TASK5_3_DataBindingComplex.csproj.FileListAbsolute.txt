@@ -1,0 +1,8 @@
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK5_2_DataBindingComplex\bin\Debug\ITMO.WFCS.TASK5_2_DataBindingComplex.exe.config
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK5_2_DataBindingComplex\bin\Debug\ITMO.WFCS.TASK5_2_DataBindingComplex.exe
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK5_2_DataBindingComplex\bin\Debug\ITMO.WFCS.TASK5_2_DataBindingComplex.pdb
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK5_2_DataBindingComplex\obj\Debug\ITMO.WFCS.TASK5_2_DataBindingComplex.Properties.Resources.resources
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK5_2_DataBindingComplex\obj\Debug\ITMO.WFCS.TASK5_3_DataBindingComplex.csproj.GenerateResource.cache
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK5_2_DataBindingComplex\obj\Debug\ITMO.WFCS.TASK5_2_DataBindingComplex.exe
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK5_2_DataBindingComplex\obj\Debug\ITMO.WFCS.TASK5_2_DataBindingComplex.pdb
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK5_2_DataBindingComplex\obj\Debug\ITMO.WFCS.TASK5_2_DataBindingComplex.Form1.resources
