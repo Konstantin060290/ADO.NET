@@ -1,7 +1,6 @@
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK5_1_DataSourcesWizard\bin\Debug\ITMO.WFCS.TASK5_1_DataSourcesWizard.exe.config
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK5_1_DataSourcesWizard\bin\Debug\ITMO.WFCS.TASK5_1_DataSourcesWizard.exe
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK5_1_DataSourcesWizard\bin\Debug\ITMO.WFCS.TASK5_1_DataSourcesWizard.pdb
-D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK5_1_DataSourcesWizard\obj\Debug\ITMO.WFCS.TASK5_1_DataSourcesWizard.csprojAssemblyReference.cache
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK5_1_DataSourcesWizard\obj\Debug\ITMO.WFCS.TASK5_1_DataSourcesWizard.Form1.resources
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK5_1_DataSourcesWizard\obj\Debug\ITMO.WFCS.TASK5_1_DataSourcesWizard.Properties.Resources.resources
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK5_1_DataSourcesWizard\obj\Debug\ITMO.WFCS.TASK5_1_DataSourcesWizard.csproj.GenerateResource.cache

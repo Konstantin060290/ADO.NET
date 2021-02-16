@@ -1,0 +1,9 @@
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK6_2_LoadDataSetXml\bin\Debug\ITMO.WFCS.TASK6_2_LoadDataSetXml.exe.config
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK6_2_LoadDataSetXml\bin\Debug\ITMO.WFCS.TASK6_2_LoadDataSetXml.exe
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK6_2_LoadDataSetXml\bin\Debug\ITMO.WFCS.TASK6_2_LoadDataSetXml.pdb
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK6_2_LoadDataSetXml\obj\Debug\ITMO.WFCS.TASK6_2_LoadDataSetXml.Form1.resources
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK6_2_LoadDataSetXml\obj\Debug\ITMO.WFCS.TASK6_2_LoadDataSetXml.Properties.Resources.resources
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK6_2_LoadDataSetXml\obj\Debug\ITMO.WFCS.TASK6_2_LoadDataSetXml.csproj.GenerateResource.cache
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK6_2_LoadDataSetXml\obj\Debug\ITMO.WFCS.TASK6_2_LoadDataSetXml.exe
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK6_2_LoadDataSetXml\obj\Debug\ITMO.WFCS.TASK6_2_LoadDataSetXml.pdb
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK6_2_LoadDataSetXml\obj\Debug\ITMO.WFCS.TASK6_2_LoadDataSetXml.csprojAssemblyReference.cache

@@ -1,7 +1,6 @@
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_4_DataAdapterWizard\bin\Debug\ITMO.WFCS.TASK4_4_DataAdapterWizard.exe.config
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_4_DataAdapterWizard\bin\Debug\ITMO.WFCS.TASK4_4_DataAdapterWizard.exe
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_4_DataAdapterWizard\bin\Debug\ITMO.WFCS.TASK4_4_DataAdapterWizard.pdb
-D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_4_DataAdapterWizard\obj\Debug\ITMO.WFCS.TASK4_4_DataAdapterWizard.csprojAssemblyReference.cache
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_4_DataAdapterWizard\obj\Debug\ITMO.WFCS.TASK4_4_DataAdapterWizard.Form1.resources
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_4_DataAdapterWizard\obj\Debug\ITMO.WFCS.TASK4_4_DataAdapterWizard.Properties.Resources.resources
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK4_4_DataAdapterWizard\obj\Debug\ITMO.WFCS.TASK4_4_DataAdapterWizard.csproj.GenerateResource.cache
