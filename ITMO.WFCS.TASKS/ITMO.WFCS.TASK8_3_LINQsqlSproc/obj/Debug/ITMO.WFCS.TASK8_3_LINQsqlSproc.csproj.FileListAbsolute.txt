@@ -1,0 +1,9 @@
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK8_3_LINQsqlSproc\bin\Debug\ITMO.WFCS.TASK8_3_LINQsqlSproc.exe.config
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK8_3_LINQsqlSproc\bin\Debug\ITMO.WFCS.TASK8_3_LINQsqlSproc.exe
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK8_3_LINQsqlSproc\bin\Debug\ITMO.WFCS.TASK8_3_LINQsqlSproc.pdb
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK8_3_LINQsqlSproc\obj\Debug\ITMO.WFCS.TASK8_3_LINQsqlSproc.csprojAssemblyReference.cache
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK8_3_LINQsqlSproc\obj\Debug\ITMO.WFCS.TASK8_3_LINQsqlSproc.Form1.resources
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK8_3_LINQsqlSproc\obj\Debug\ITMO.WFCS.TASK8_3_LINQsqlSproc.Properties.Resources.resources
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK8_3_LINQsqlSproc\obj\Debug\ITMO.WFCS.TASK8_3_LINQsqlSproc.csproj.GenerateResource.cache
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK8_3_LINQsqlSproc\obj\Debug\ITMO.WFCS.TASK8_3_LINQsqlSproc.exe
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK8_3_LINQsqlSproc\obj\Debug\ITMO.WFCS.TASK8_3_LINQsqlSproc.pdb
