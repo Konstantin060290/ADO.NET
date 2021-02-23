@@ -28,42 +28,46 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
-            this.listView1 = new System.Windows.Forms.ListView();
+            this.GetStudentsButton = new System.Windows.Forms.Button();
+            this.StudentsListView = new System.Windows.Forms.ListView();
             this.PesonId = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.FirstName = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.LastName = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.HireDate = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.файлToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.сохранитьКакToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.FileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.SaveUsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.DepartmentsDataGridView = new System.Windows.Forms.DataGridView();
+            this.GetDepartmentsButton = new System.Windows.Forms.Button();
+            this.ChangeDepartmentsButton = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.DepartmentsDataGridView)).BeginInit();
             this.SuspendLayout();
             // 
-            // button1
+            // GetStudentsButton
             // 
-            this.button1.Location = new System.Drawing.Point(12, 27);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(154, 46);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Получить список учеников";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.GetStudentsButton.Location = new System.Drawing.Point(12, 27);
+            this.GetStudentsButton.Name = "GetStudentsButton";
+            this.GetStudentsButton.Size = new System.Drawing.Size(154, 46);
+            this.GetStudentsButton.TabIndex = 0;
+            this.GetStudentsButton.Text = "Получить список учеников";
+            this.GetStudentsButton.UseVisualStyleBackColor = true;
+            this.GetStudentsButton.Click += new System.EventHandler(this.GetStudentsButton_Click);
             // 
-            // listView1
+            // StudentsListView
             // 
-            this.listView1.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
+            this.StudentsListView.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
             this.PesonId,
             this.FirstName,
             this.LastName,
             this.HireDate});
-            this.listView1.HideSelection = false;
-            this.listView1.Location = new System.Drawing.Point(172, 27);
-            this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(476, 190);
-            this.listView1.TabIndex = 2;
-            this.listView1.UseCompatibleStateImageBehavior = false;
-            this.listView1.View = System.Windows.Forms.View.Details;
+            this.StudentsListView.HideSelection = false;
+            this.StudentsListView.Location = new System.Drawing.Point(172, 27);
+            this.StudentsListView.Name = "StudentsListView";
+            this.StudentsListView.Size = new System.Drawing.Size(442, 125);
+            this.StudentsListView.TabIndex = 2;
+            this.StudentsListView.UseCompatibleStateImageBehavior = false;
+            this.StudentsListView.View = System.Windows.Forms.View.Details;
             // 
             // PesonId
             // 
@@ -87,41 +91,73 @@
             // menuStrip1
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.файлToolStripMenuItem});
+            this.FileToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(800, 24);
             this.menuStrip1.TabIndex = 3;
             this.menuStrip1.Text = "menuStrip1";
             // 
-            // файлToolStripMenuItem
+            // FileToolStripMenuItem
             // 
-            this.файлToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.сохранитьКакToolStripMenuItem});
-            this.файлToolStripMenuItem.Name = "файлToolStripMenuItem";
-            this.файлToolStripMenuItem.Size = new System.Drawing.Size(48, 20);
-            this.файлToolStripMenuItem.Text = "Файл";
+            this.FileToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.SaveUsToolStripMenuItem});
+            this.FileToolStripMenuItem.Name = "FileToolStripMenuItem";
+            this.FileToolStripMenuItem.Size = new System.Drawing.Size(48, 20);
+            this.FileToolStripMenuItem.Text = "Файл";
             // 
-            // сохранитьКакToolStripMenuItem
+            // SaveUsToolStripMenuItem
             // 
-            this.сохранитьКакToolStripMenuItem.Name = "сохранитьКакToolStripMenuItem";
-            this.сохранитьКакToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.сохранитьКакToolStripMenuItem.Text = "Сохранить как";
-            this.сохранитьКакToolStripMenuItem.Click += new System.EventHandler(this.сохранитьКакToolStripMenuItem_Click);
+            this.SaveUsToolStripMenuItem.Name = "SaveUsToolStripMenuItem";
+            this.SaveUsToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
+            this.SaveUsToolStripMenuItem.Text = "Сохранить как";
+            this.SaveUsToolStripMenuItem.Click += new System.EventHandler(this.SaveUsToolStripMenuItem_Click);
+            // 
+            // DepartmentsDataGridView
+            // 
+            this.DepartmentsDataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.DepartmentsDataGridView.Location = new System.Drawing.Point(172, 158);
+            this.DepartmentsDataGridView.Name = "DepartmentsDataGridView";
+            this.DepartmentsDataGridView.Size = new System.Drawing.Size(442, 142);
+            this.DepartmentsDataGridView.TabIndex = 4;
+            // 
+            // GetDepartmentsButton
+            // 
+            this.GetDepartmentsButton.Location = new System.Drawing.Point(12, 158);
+            this.GetDepartmentsButton.Name = "GetDepartmentsButton";
+            this.GetDepartmentsButton.Size = new System.Drawing.Size(154, 46);
+            this.GetDepartmentsButton.TabIndex = 0;
+            this.GetDepartmentsButton.Text = "Получить список департаментов";
+            this.GetDepartmentsButton.UseVisualStyleBackColor = true;
+            this.GetDepartmentsButton.Click += new System.EventHandler(this.GetTeachersButton_Click);
+            // 
+            // ChangeDepartmentsButton
+            // 
+            this.ChangeDepartmentsButton.Location = new System.Drawing.Point(12, 210);
+            this.ChangeDepartmentsButton.Name = "ChangeDepartmentsButton";
+            this.ChangeDepartmentsButton.Size = new System.Drawing.Size(154, 40);
+            this.ChangeDepartmentsButton.TabIndex = 5;
+            this.ChangeDepartmentsButton.Text = "Изменить";
+            this.ChangeDepartmentsButton.UseVisualStyleBackColor = true;
+            this.ChangeDepartmentsButton.Click += new System.EventHandler(this.ChangeDepartmentsButton_Click);
             // 
             // ZachetForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.listView1);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.ChangeDepartmentsButton);
+            this.Controls.Add(this.DepartmentsDataGridView);
+            this.Controls.Add(this.StudentsListView);
+            this.Controls.Add(this.GetDepartmentsButton);
+            this.Controls.Add(this.GetStudentsButton);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "ZachetForm";
             this.Text = "Зачетное задание";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.DepartmentsDataGridView)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -129,15 +165,18 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.ListView listView1;
+        private System.Windows.Forms.Button GetStudentsButton;
+        private System.Windows.Forms.ListView StudentsListView;
         private System.Windows.Forms.ColumnHeader PesonId;
         private System.Windows.Forms.ColumnHeader FirstName;
         private System.Windows.Forms.ColumnHeader LastName;
         private System.Windows.Forms.ColumnHeader HireDate;
         private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem файлToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem сохранитьКакToolStripMenuItem;
-    }
+        private System.Windows.Forms.ToolStripMenuItem FileToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem SaveUsToolStripMenuItem;
+        private System.Windows.Forms.DataGridView DepartmentsDataGridView;
+        private System.Windows.Forms.Button GetDepartmentsButton;
+        private System.Windows.Forms.Button ChangeDepartmentsButton;
+        }
 }
 
