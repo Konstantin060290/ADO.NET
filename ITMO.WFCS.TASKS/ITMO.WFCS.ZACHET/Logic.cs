@@ -137,11 +137,12 @@ namespace ITMO.WFCS.ZACHET
             }
         
         SchoolEntities context;
-        public void Entity_Show_SmithCourses(DataGridView yourDataGridView)
+        public void Entity_Show_SelectedCourses(DataGridView yourDataGridView)
             {
             context = new SchoolEntities();
+            string cell = yourDataGridView.CurrentCell.Value.ToString();
                      var courses = from c in context.OnsiteCourse
-                                   where c.Location == "121 Smith"
+                                   where c.Location == cell
                                    select c;
             context.OnsiteCourse.Load();
             yourDataGridView.DataSource = courses.ToList();
@@ -162,20 +163,8 @@ namespace ITMO.WFCS.ZACHET
             }
         public void AddCourse()
             {
-            Course C1 = new Course();
-            C1.CourseID = 5001;
-            C1.Title = "Programming";
-            C1.Credits = 4;
-            C1.DepartmentID = 1;
-            OnsiteCourse OC1 = new OnsiteCourse();
-            OC1.CourseID = C1.CourseID;
-            OC1.Location = "Saint-Petersburg";
-            OC1.Days = Convert.ToString(10);
-            OC1.Time = DateTime.Now;
-           
-            context.OnsiteCourse.Add(OC1);
-            context.Course.Add(C1);
-            context.SaveChanges();
+            NewCourse NC = new NewCourse();
+            NC.Show();
             }
         
         

@@ -48,7 +48,7 @@ namespace ITMO.WFCS.ZACHET
 
         private void List_Courses_button_Click(object sender, EventArgs e)
             {
-            L1.Entity_Show_SmithCourses(ListCoursesGridView);
+            L1.Entity_Show_SelectedCourses(ListCoursesGridView);
             }
 
         private void ChangeListCoursesButton_Click(object sender, EventArgs e)
@@ -73,6 +73,7 @@ namespace ITMO.WFCS.ZACHET
 
         private void Add_Course_Button_Click(object sender, EventArgs e)
             {
+
             L1.AddCourse();
             }
         }

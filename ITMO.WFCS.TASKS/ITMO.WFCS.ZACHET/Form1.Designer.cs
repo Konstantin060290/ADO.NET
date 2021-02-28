@@ -40,7 +40,7 @@
             this.DepartmentsDataGridView = new System.Windows.Forms.DataGridView();
             this.GetDepartmentsButton = new System.Windows.Forms.Button();
             this.ChangeDepartmentsButton = new System.Windows.Forms.Button();
-            this.List_Courses_button = new System.Windows.Forms.Button();
+            this.List_SelectedCourses_button = new System.Windows.Forms.Button();
             this.ListCoursesGridView = new System.Windows.Forms.DataGridView();
             this.ChangeListCoursesButton = new System.Windows.Forms.Button();
             this.List_All_Courses_button = new System.Windows.Forms.Button();
@@ -149,15 +149,15 @@
             this.ChangeDepartmentsButton.UseVisualStyleBackColor = true;
             this.ChangeDepartmentsButton.Click += new System.EventHandler(this.ChangeDepartmentsButton_Click);
             // 
-            // List_Courses_button
+            // List_SelectedCourses_button
             // 
-            this.List_Courses_button.Location = new System.Drawing.Point(12, 371);
-            this.List_Courses_button.Name = "List_Courses_button";
-            this.List_Courses_button.Size = new System.Drawing.Size(154, 50);
-            this.List_Courses_button.TabIndex = 6;
-            this.List_Courses_button.Text = "Показать перечень курсов, проходящих на 121 Smith ";
-            this.List_Courses_button.UseVisualStyleBackColor = true;
-            this.List_Courses_button.Click += new System.EventHandler(this.List_Courses_button_Click);
+            this.List_SelectedCourses_button.Location = new System.Drawing.Point(12, 371);
+            this.List_SelectedCourses_button.Name = "List_SelectedCourses_button";
+            this.List_SelectedCourses_button.Size = new System.Drawing.Size(154, 50);
+            this.List_SelectedCourses_button.TabIndex = 6;
+            this.List_SelectedCourses_button.Text = "Показать перечень курсов, выбранных в столбце Location";
+            this.List_SelectedCourses_button.UseVisualStyleBackColor = true;
+            this.List_SelectedCourses_button.Click += new System.EventHandler(this.List_Courses_button_Click);
             // 
             // ListCoursesGridView
             // 
@@ -227,7 +227,7 @@
             this.Controls.Add(this.Save_to_XML_button);
             this.Controls.Add(this.ChangeListCoursesButton);
             this.Controls.Add(this.List_All_Courses_button);
-            this.Controls.Add(this.List_Courses_button);
+            this.Controls.Add(this.List_SelectedCourses_button);
             this.Controls.Add(this.ChangeDepartmentsButton);
             this.Controls.Add(this.ListCoursesGridView);
             this.Controls.Add(this.DepartmentsDataGridView);
@@ -261,7 +261,7 @@
         private System.Windows.Forms.DataGridView DepartmentsDataGridView;
         private System.Windows.Forms.Button GetDepartmentsButton;
         private System.Windows.Forms.Button ChangeDepartmentsButton;
-        private System.Windows.Forms.Button List_Courses_button;
+        private System.Windows.Forms.Button List_SelectedCourses_button;
         private System.Windows.Forms.DataGridView ListCoursesGridView;
         private System.Windows.Forms.Button ChangeListCoursesButton;
         private System.Windows.Forms.Button List_All_Courses_button;
