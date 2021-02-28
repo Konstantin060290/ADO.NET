@@ -15,4 +15,11 @@ D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.ZACHET\obj\Debug\ITMO.W
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.ZACHET\obj\Debug\ITMO.WFCS.ZACHET.csproj.GenerateResource.cache
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.ZACHET\obj\Debug\ITMO.WFCS.ZACHET.exe
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.ZACHET\obj\Debug\ITMO.WFCS.ZACHET.pdb
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.ZACHET\bin\Debug\EntityFramework.dll
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.ZACHET\bin\Debug\EntityFramework.SqlServer.dll
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.ZACHET\bin\Debug\EntityFramework.xml
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.ZACHET\bin\Debug\EntityFramework.SqlServer.xml
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.ZACHET\bin\Debug\ru\EntityFramework.resources.dll
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.ZACHET\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.ZACHET\obj\Debug\ITMO.WFCS.ZACHET.csprojAssemblyReference.cache
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.ZACHET\obj\Debug\ITMO.WFCS.ZACHET.csproj.CopyComplete

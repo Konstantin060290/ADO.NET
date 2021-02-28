@@ -1,0 +1,11 @@
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK9_2_CodeFirst\bin\Debug\ITMO.WFCS.TASK9_2_CodeFirst.dll.config
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK9_2_CodeFirst\bin\Debug\ITMO.WFCS.TASK9_2_CodeFirst.dll
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK9_2_CodeFirst\bin\Debug\ITMO.WFCS.TASK9_2_CodeFirst.pdb
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK9_2_CodeFirst\bin\Debug\EntityFramework.dll
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK9_2_CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK9_2_CodeFirst\bin\Debug\EntityFramework.xml
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK9_2_CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK9_2_CodeFirst\obj\Debug\ITMO.WFCS.TASK9_2_CodeFirst.csproj.CopyComplete
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK9_2_CodeFirst\obj\Debug\ITMO.WFCS.TASK9_2_CodeFirst.dll
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK9_2_CodeFirst\obj\Debug\ITMO.WFCS.TASK9_2_CodeFirst.pdb
+D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.WFCS.TASK9_2_CodeFirst\obj\Debug\ITMO.WFCS.TASK9_2_CodeFirst.csprojAssemblyReference.cache

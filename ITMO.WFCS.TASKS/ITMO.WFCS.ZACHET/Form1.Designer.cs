@@ -40,8 +40,16 @@
             this.DepartmentsDataGridView = new System.Windows.Forms.DataGridView();
             this.GetDepartmentsButton = new System.Windows.Forms.Button();
             this.ChangeDepartmentsButton = new System.Windows.Forms.Button();
+            this.List_Courses_button = new System.Windows.Forms.Button();
+            this.ListCoursesGridView = new System.Windows.Forms.DataGridView();
+            this.ChangeListCoursesButton = new System.Windows.Forms.Button();
+            this.List_All_Courses_button = new System.Windows.Forms.Button();
+            this.Save_to_XML_button = new System.Windows.Forms.Button();
+            this.ReadUpdatedXMLButton = new System.Windows.Forms.Button();
+            this.Add_Course_Button = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.DepartmentsDataGridView)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ListCoursesGridView)).BeginInit();
             this.SuspendLayout();
             // 
             // GetStudentsButton
@@ -141,12 +149,87 @@
             this.ChangeDepartmentsButton.UseVisualStyleBackColor = true;
             this.ChangeDepartmentsButton.Click += new System.EventHandler(this.ChangeDepartmentsButton_Click);
             // 
+            // List_Courses_button
+            // 
+            this.List_Courses_button.Location = new System.Drawing.Point(12, 371);
+            this.List_Courses_button.Name = "List_Courses_button";
+            this.List_Courses_button.Size = new System.Drawing.Size(154, 50);
+            this.List_Courses_button.TabIndex = 6;
+            this.List_Courses_button.Text = "Показать перечень курсов, проходящих на 121 Smith ";
+            this.List_Courses_button.UseVisualStyleBackColor = true;
+            this.List_Courses_button.Click += new System.EventHandler(this.List_Courses_button_Click);
+            // 
+            // ListCoursesGridView
+            // 
+            this.ListCoursesGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.ListCoursesGridView.Location = new System.Drawing.Point(172, 306);
+            this.ListCoursesGridView.Name = "ListCoursesGridView";
+            this.ListCoursesGridView.Size = new System.Drawing.Size(442, 164);
+            this.ListCoursesGridView.TabIndex = 4;
+            // 
+            // ChangeListCoursesButton
+            // 
+            this.ChangeListCoursesButton.Location = new System.Drawing.Point(13, 436);
+            this.ChangeListCoursesButton.Name = "ChangeListCoursesButton";
+            this.ChangeListCoursesButton.Size = new System.Drawing.Size(153, 34);
+            this.ChangeListCoursesButton.TabIndex = 7;
+            this.ChangeListCoursesButton.Text = "Изменить";
+            this.ChangeListCoursesButton.UseVisualStyleBackColor = true;
+            this.ChangeListCoursesButton.Click += new System.EventHandler(this.ChangeListCoursesButton_Click);
+            // 
+            // List_All_Courses_button
+            // 
+            this.List_All_Courses_button.Location = new System.Drawing.Point(12, 306);
+            this.List_All_Courses_button.Name = "List_All_Courses_button";
+            this.List_All_Courses_button.Size = new System.Drawing.Size(154, 50);
+            this.List_All_Courses_button.TabIndex = 6;
+            this.List_All_Courses_button.Text = "Показать перечень всех курсов";
+            this.List_All_Courses_button.UseVisualStyleBackColor = true;
+            this.List_All_Courses_button.Click += new System.EventHandler(this.List_All_Courses_button_Click);
+            // 
+            // Save_to_XML_button
+            // 
+            this.Save_to_XML_button.Location = new System.Drawing.Point(172, 476);
+            this.Save_to_XML_button.Name = "Save_to_XML_button";
+            this.Save_to_XML_button.Size = new System.Drawing.Size(147, 55);
+            this.Save_to_XML_button.TabIndex = 8;
+            this.Save_to_XML_button.Text = "Сохранить в XML";
+            this.Save_to_XML_button.UseVisualStyleBackColor = true;
+            this.Save_to_XML_button.Click += new System.EventHandler(this.Save_to_XML_button_Click);
+            // 
+            // ReadUpdatedXMLButton
+            // 
+            this.ReadUpdatedXMLButton.Location = new System.Drawing.Point(326, 476);
+            this.ReadUpdatedXMLButton.Name = "ReadUpdatedXMLButton";
+            this.ReadUpdatedXMLButton.Size = new System.Drawing.Size(119, 55);
+            this.ReadUpdatedXMLButton.TabIndex = 9;
+            this.ReadUpdatedXMLButton.Text = "Прочитать обновленный файл XML";
+            this.ReadUpdatedXMLButton.UseVisualStyleBackColor = true;
+            this.ReadUpdatedXMLButton.Click += new System.EventHandler(this.ReadUpdatedXMLButton_Click);
+            // 
+            // Add_Course_Button
+            // 
+            this.Add_Course_Button.Location = new System.Drawing.Point(451, 476);
+            this.Add_Course_Button.Name = "Add_Course_Button";
+            this.Add_Course_Button.Size = new System.Drawing.Size(163, 55);
+            this.Add_Course_Button.TabIndex = 10;
+            this.Add_Course_Button.Text = "Добавить курс";
+            this.Add_Course_Button.UseVisualStyleBackColor = true;
+            this.Add_Course_Button.Click += new System.EventHandler(this.Add_Course_Button_Click);
+            // 
             // ZachetForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(800, 560);
+            this.Controls.Add(this.Add_Course_Button);
+            this.Controls.Add(this.ReadUpdatedXMLButton);
+            this.Controls.Add(this.Save_to_XML_button);
+            this.Controls.Add(this.ChangeListCoursesButton);
+            this.Controls.Add(this.List_All_Courses_button);
+            this.Controls.Add(this.List_Courses_button);
             this.Controls.Add(this.ChangeDepartmentsButton);
+            this.Controls.Add(this.ListCoursesGridView);
             this.Controls.Add(this.DepartmentsDataGridView);
             this.Controls.Add(this.StudentsListView);
             this.Controls.Add(this.GetDepartmentsButton);
@@ -158,6 +241,7 @@
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.DepartmentsDataGridView)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ListCoursesGridView)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -177,6 +261,13 @@
         private System.Windows.Forms.DataGridView DepartmentsDataGridView;
         private System.Windows.Forms.Button GetDepartmentsButton;
         private System.Windows.Forms.Button ChangeDepartmentsButton;
+        private System.Windows.Forms.Button List_Courses_button;
+        private System.Windows.Forms.DataGridView ListCoursesGridView;
+        private System.Windows.Forms.Button ChangeListCoursesButton;
+        private System.Windows.Forms.Button List_All_Courses_button;
+        private System.Windows.Forms.Button Save_to_XML_button;
+        private System.Windows.Forms.Button ReadUpdatedXMLButton;
+        private System.Windows.Forms.Button Add_Course_Button;
         }
 }
 

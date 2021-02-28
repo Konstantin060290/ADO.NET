@@ -3,4 +3,3 @@ D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.LINQ.TASK7_1_Linq_Student\bi
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.LINQ.TASK7_1_Linq_Student\bin\Debug\ITMO.LINQ.TASK7_1_Linq_Student.pdb
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.LINQ.TASK7_1_Linq_Student\obj\Debug\ITMO.LINQ.TASK7_1_Linq_Student.exe
 D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.LINQ.TASK7_1_Linq_Student\obj\Debug\ITMO.LINQ.TASK7_1_Linq_Student.pdb
-D:\Coding\ITMO\7_ADO_NET\Tasks\ITMO.WFCS.TASKS\ITMO.LINQ.TASK7_1_Linq_Student\obj\Debug\ITMO.LINQ.TASK7_1_2_Linq_Student.csprojAssemblyReference.cache

@@ -1,0 +1,39 @@
+﻿<Courses>
+  <Courses>
+    <CourseID>1045</CourseID>
+    <Location>121 Smith</Location>
+    <Days>MWHF</Days>
+    <Time>01.01.1900 15:30:00</Time>
+  </Courses>
+  <Courses>
+    <CourseID>1050</CourseID>
+    <Location>121 Smith</Location>
+    <Days>MTWH</Days>
+    <Time>01.01.1900 11:30:00</Time>
+  </Courses>
+  <Courses>
+    <CourseID>1061</CourseID>
+    <Location>234 Smith</Location>
+    <Days>TWHF</Days>
+    <Time>01.01.1900 13:15:00</Time>
+  </Courses>
+  <Courses>
+    <CourseID>2042</CourseID>
+    <Location>225 Adams</Location>
+    <Days>MTWH</Days>
+    <Time>01.01.1900 11:00:00</Time>
+  </Courses>
+  <Courses>
+    <CourseID>4022</CourseID>
+    <Location>23 Williams</Location>
+    <Days>MWF</Days>
+    <Time>01.01.1900 9:00:00</Time>
+  </Courses>
+  <Courses>
+    <CourseID>4061</CourseID>
+    <Location>22 Williams</Location>
+    <Days>TH</Days>
+    <Time>01.01.1900 11:15:00</Time>
+  </Courses>
+  <Courses />
+</Courses>
